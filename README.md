@@ -25,4 +25,4 @@ To view the daily planner, open the `index.html` file in a web browser. This wil
 
 ## MY DAY
 OUTPUT:
-[![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)]
+![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
