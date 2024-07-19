@@ -25,4 +25,4 @@ To view the daily planner, open the `index.html` file in a web browser. This wil
 
 ## MY DAY
 OUTPUT:
-![OUTPUT](https://github.com/Krishna-Prakaash/MY-DAY/assets/93427144/826536d2-df79-4bdb-8500-94858694acc3)
+[![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)]
